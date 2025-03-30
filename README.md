@@ -49,3 +49,10 @@ Currently, two official plugins are available:
 ## License 📄
 
 This project is licensed under the MIT License. See the [MIT License](LICENSE) file for details.
+
+
+## Contact
+For any inquiries, reach out at **prabodhathathsarani28@gmail.com**
+
+---
+Made with ❤️ by Tathsarani
